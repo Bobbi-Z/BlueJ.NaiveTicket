@@ -8,8 +8,8 @@ import org.junit.Test;
 /**
  * The test class TicketMachineTest.
  *
- * @author  (your name)
- * @version (a version number or a date)
+ * @Bobbi
+ * @6-23-21
  */
 public class TicketMachineTest
 {
