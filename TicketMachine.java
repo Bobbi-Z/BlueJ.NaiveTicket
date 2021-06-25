@@ -27,7 +27,7 @@ public class TicketMachine
      */
     public TicketMachine(Integer ticketCost)
     {
-        price = 15000;
+        price = ticketCost;
         balance = 0;
         total = 0;
         ticketNumber = 0;
